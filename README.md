@@ -1,18 +1,19 @@
-### I'll edit this eventually
+### Profile
 
-![WiseNat's github stats](https://github-readme-stats.vercel.app/api?username=WiseNat&count_private=true&show_icons=true&theme=vue)
+<!--Github Stats--->
+<p align="center">
+    <a href="https://github.com/WiseNat">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=WiseNat&count_private=true&show_icons=true&theme=vue" />
+    </a>
+</p>
 
-<!--
-**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<!--Most used Programming Languages--->
+<p align="center">
+    <a href="https://github.com/WiseNat">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseNat&layout=compact" />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
