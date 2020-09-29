@@ -3,7 +3,7 @@
 
 ![WiseNat's github stats](https://github-readme-stats.vercel.app/api?username=WiseNat&count_private=true&show_icons=true&theme=vue)
 
-<div style="text-align:center">
+<div style="align:center">
     <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmarket.designmodo.com%2Fwp-content%2Fuploads%2F2015%2F06%2Fstack-overflow-logo.png&f=1&nofb=1" />
 </div>
 
