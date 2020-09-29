@@ -1,9 +1,8 @@
-### Profile
-
-<!--Skills--->
-
+<!--Socials--->
+<h1 style="text-align:center"> Socials </h1>
 <p align="center">
-<a href="https://github.com/WiseNat"><img alt="GitHub" src="https://img.shields.io/badge/-@WiseNat-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/WiseNat"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/WiseNat"><img alt="Gmail" src="https://img.shields.io/badge/-nathan88wise@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </p>
 
 <!--GitHub Stats--->
