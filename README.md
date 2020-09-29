@@ -2,7 +2,7 @@
 <h1 style="text-align:center"> Socials </h1>
 <p align="center">
 <a href="https://github.com/WiseNat"><img alt="GitHub" src="https://img.shields.io/badge/-@WiseNat-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-<a href="https://github.com/WiseNat"><img alt="Gmail" src="https://img.shields.io/badge/-nathan88wise@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+<a href="mailto:nathan88wise@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-nathan88wise@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </p>
 
 <!--GitHub Stats--->
