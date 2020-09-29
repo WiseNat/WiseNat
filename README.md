@@ -14,8 +14,6 @@
     </p>
 </details>
 
-<br>
-
 <!--Most used Programming Languages--->
 <details>
     <summary>📗 Languages Used</summary>
