@@ -20,7 +20,7 @@
     <summary>📗 Most Used Languages</summary>
     <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseNat&layout=compact&custom_title=WiseNat%27s%20Most%20Used%20Languages" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseNat&layout=compact&custom_title=WiseNat%27s%20Most%20Used%20Languages&title_color=009356" />
         </a>
     </p>
 </details>
