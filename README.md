@@ -1,11 +1,12 @@
 <!--Contacts--->
 <h1> Socials </h1>
 <h5 align="center">
-	<code><a href="https://github.com/WiseNat" title="GitHub Profile"><img alt="GitHub" width=32 src="https://simpleicons.org/icons/github.svg"> GitHub</a></code>
+	<code><a href="https://github.com/WiseNat" title="GitHub Profile"><img alt="GitHub" width=32 src="res/github.svg"> GitHub</a></code>
 	&emsp;
-	<code><a href="mailto:nathan88wise@gmail.com"><img alt="Gmail" width=32 src="https://simpleicons.org/icons/gmail.svg"> Gmail</a></code>
+	<code><a href="mailto:nathan88wise@gmail.com"><img alt="Gmail" width=32 src="res/gmail.svg"> Gmail</a></code>
 	&emsp;
-	<code><a href="https://www.linkedin.com/in/nathan-w-5592ba1b5/" title="LinkedIn Profile"><img alt="LinkedIn" width=32 src="https://simpleicons.org/icons/linkedin.svg"> LinkedIn</a></code>
+	<code><a href="https://www.linkedin.com/in/nathan-w-5592ba1b5/" title="LinkedIn Profile"><img alt="LinkedIn" width=32 src="res/linkedin.svg"> LinkedIn</a></code>
+	&emsp;
 </h5>
 
 <!--GitHub Stats--->
