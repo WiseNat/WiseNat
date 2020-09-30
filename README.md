@@ -9,7 +9,9 @@
 <details>
     <summary>⚡ GitHub Stats</summary>
     <p align="center">
-    <a href="https://github.com/WiseNat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WiseNat&count_private=true&show_icons=true&theme=vue" /></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=WiseNat&count_private=true&show_icons=true&theme=vue" />
+        </a>
     </p>
 </details>
 
@@ -17,7 +19,9 @@
 <details>
     <summary>📗 Languages Used</summary>
     <p align="center">
-    <a href="https://github.com/WiseNat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseNat&layout=compact" /></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseNat&layout=compact" />
+        </a>
     </p>
 </details>
 
