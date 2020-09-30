@@ -1,16 +1,12 @@
 <!--Contacts--->
-<h1 style="text-align:center"> Socials </h1>
-<p align="center">
-	<code> 
-		<a href="https://github.com/WiseNat" title="GitHub Profile"><img alt="GitHub" src="https://img.shields.io/badge/-@WiseNat-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-	</code>
-	<code>
-		<a href="mailto:nathan88wise@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-nathan88wise@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-	</code>
-	<code>
-		<a href="https://www.linkedin.com/in/nathan-w-5592ba1b5/"><img alt="Linkedin" src="https://img.shields.io/badge/-Nathan%20Wise-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-	</code>
-</p>
+<h1> Socials </h1>
+<h5 align="center">
+	<code><a href="https://github.com/WiseNat" title="GitHub Profile"><img alt="GitHub" width=32 src="https://simpleicons.org/icons/github.svg"> GitHub</a></code>
+	&emsp;
+	<code><a href="mailto:nathan88wise@gmail.com"><img alt="Gmail" width=32 src="https://simpleicons.org/icons/gmail.svg"> Gmail</a></code>
+	&emsp;
+	<code><a href="https://www.linkedin.com/in/nathan-w-5592ba1b5/" title="LinkedIn Profile"><img alt="LinkedIn" width=32 src="https://simpleicons.org/icons/linkedin.svg"> LinkedIn</a></code>
+</h5>
 
 <!--GitHub Stats--->
 <details>
