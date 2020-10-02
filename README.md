@@ -19,7 +19,8 @@
 
 <br>
 
-<h3> My Recent GitHub Activity </h3>
+<h3>My Recent GitHub Activity</h3>
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#6080](https://github.com/timburgan/timburgan/issues/6080) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 2. 🎉 Merged PR [#2](https://github.com/WiseNat/WiseNat/pull/2) in [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
