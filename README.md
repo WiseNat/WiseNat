@@ -1,3 +1,11 @@
+<!--TODO: Email a visible URL, add tools/languages as SVGS in codeblocks--->
+
+<!--About Me--->
+
+
+<!--Tools/Languages--->
+
+
 <!--Contacts--->
 <h1> Socials </h1>
 <h5 align="center">
@@ -9,22 +17,14 @@
 	&emsp;
 </h5>
 
+<!--Recent Github Activity--->
+
 <!--GitHub Stats--->
 <details>
-	<summary>⚡ GitHub Stats</summary>
+	<summary>📈 My GitHub Stats</summary>
 	<p align="center">
 		<a href="https://github.com/anuraghazra/github-readme-stats">
 			<img align="center" src="https://github-readme-stats.vercel.app/api?username=WiseNat&count_private=true&show_icons=true&title_color=009356&icon_color=75B79A" />
-		</a>
-	</p>
-</details>
-
-<!--Most used Programming Languages--->
-<details>
-	<summary>📗 Most Used Languages</summary>
-	<p align="center">
-		<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiseNat&layout=compact&custom_title=WiseNat%27s%20Most%20Used%20Languages&title_color=009356" />
 		</a>
 	</p>
 </details>
