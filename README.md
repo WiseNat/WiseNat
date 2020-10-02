@@ -17,7 +17,7 @@
 	&emsp;
 </h5>
 
-<br>
+---
 
 <h3>My Recent GitHub Activity</h3>
 
@@ -29,6 +29,9 @@
 5. 💪 Opened PR [#1](https://github.com/WiseNat/WiseNat/pull/1) in [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
 <!--END_SECTION:activity-->
 
+<br>
+
+---
 
 <!--GitHub Stats--->
 <details>
