@@ -29,7 +29,7 @@
 4. 🔽 Merged PR <a href="https://github.com/WiseNat/WiseNat/pull/1">#1</a> in <a href="https://github.com/WiseNat/WiseNat">WiseNat/WiseNat</a>
 5. 📖 Opened PR <a href="https://github.com/WiseNat/WiseNat/pull/1">#1</a> in <a href="https://github.com/WiseNat/WiseNat">WiseNat/WiseNat</a>
 <!--END_SECTION:activity-->
-<!--END_SECTION:activity--></pre>
+</pre>
 
 <br>
 
