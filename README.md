@@ -19,8 +19,6 @@
 
 <!--GitHub Recent Activity--->
 
----
-
 <!--GitHub Stats--->
 <details>
 	<summary>📈 My GitHub Stats</summary>
