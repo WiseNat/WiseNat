@@ -2,26 +2,31 @@ name: Update README
 
 on:
   schedule:
-  - cron: "*/30 * * * *"
-  workflow_dispatch:
-
+    - cron: "*/30 * * * *"
+  push:
+    branches:
+      - master
 
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - name: Checkout sources
+        uses: actions/checkout@v2
         with:
           persist-credentials: false
           fetch-depth: 0
-          
-      - name: Create README.md
+
+      - name: Generate README.md
         uses: actions-js/profile-readme@master
         with:
-          username: WiseNat
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          
+          username: WiseNat
+          template: "TEMPLATE.md"
+
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          coauthor_email: WiseNat@users.noreply.github.com
+          coauthor_name: WiseNat
