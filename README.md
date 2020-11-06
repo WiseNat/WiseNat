@@ -7,11 +7,11 @@
 <!--Contacts--->
 <h1> Socials </h1>
 <h5 align="center">
-	<code><a href="mailto:nathan88wise@gmail.com"><img alt="Gmail" width=32 src="res/stackoverflow.svg"> Gmail</a></code>
+	<code><a href="mailto:nathan88wise@gmail.com"><img alt="Gmail" width=32 src="res/gmail.svg"> Gmail</a></code>
 	&emsp;
 	<code><a href="https://www.linkedin.com/in/nathan-w-5592ba1b5/" title="LinkedIn Profile"><img alt="LinkedIn" width=32 src="res/linkedin.svg"> LinkedIn</a></code>
 	&emsp;
-	<code><a href="https://stackoverflow.com/users/11125378/wisenat" title="Stack Overflow Profile"><img alt="Stack Overflow" width=32 src="res/github.svg"> Stack Overflow</a></code>
+	<code><a href="https://stackoverflow.com/users/11125378/wisenat" title="Stack Overflow Profile"><img alt="Stack Overflow" width=32 src="res/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 
 ---
