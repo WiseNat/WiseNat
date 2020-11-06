@@ -18,7 +18,8 @@
 
 <!--GitHub Recent Activity--->
 
-```⬆️ Pushed 10 commits to WiseNat/WiseNat
+⬆️ Pushed 1 commit to WiseNat/WiseNat
+⬆️ Pushed 10 commits to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
@@ -27,7 +28,6 @@
 ⬆️ Pushed 1 commit to WiseNat/UniApprenticeships
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
-⬆️ Pushed 1 commit to WiseNat/WiseNat```
 
 <!--GitHub Stats--->
 <details>
