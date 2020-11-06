@@ -19,6 +19,7 @@
 <!--GitHub Recent Activity--->
 
 ```markdown
+🍴 Forked WiseNat/profile-readme from actions-js/profile-readme
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 10 commits to WiseNat/WiseNat
@@ -28,7 +29,6 @@
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/Maths-Books
 ⬆️ Pushed 1 commit to WiseNat/UniApprenticeships
-⬆️ Pushed 1 commit to WiseNat/WiseNat
 ```
 
 <!--GitHub Stats--->
