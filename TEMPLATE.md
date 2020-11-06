@@ -18,7 +18,9 @@
 
 <!--GitHub Recent Activity--->
 
+```markdown
 <!--GITHUB_ACTIVITY:{"rows": 10, "raw": true}-->
+```
 
 <!--GitHub Stats--->
 <details>
