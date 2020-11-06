@@ -18,7 +18,7 @@
 
 <!--GitHub Recent Activity--->
 
-```<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true}-->```
+<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true}-->
 
 <!--GitHub Stats--->
 <details>
