@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate README.md
-        uses: actions-js/profile-readme@master
+        uses: WiseNat/profile-readme@patch-1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: WiseNat
