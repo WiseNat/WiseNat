@@ -18,7 +18,7 @@
 &emsp;
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=WiseNat&count_private=true&show_icons=true&title_color=009356&icon_color=75B79A&bg_color=F3F4F4" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=WiseNat&count_private=true&show_icons=true&title_color=009356&icon_color=75B79A" />
 	</a>
 </p>
 
@@ -27,6 +27,7 @@
 <!--GitHub Recent Activity--->
 
 ```markdown
+⬆️ Pushed 1 commit to WiseNat/WiseNat
 ❗️ Opened issue #7654 in timburgan/timburgan
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
@@ -36,7 +37,6 @@
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 10 commits to WiseNat/WiseNat
-⬆️ Pushed 1 commit to WiseNat/WiseNat
 ```
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
