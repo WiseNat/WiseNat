@@ -39,8 +39,6 @@
 ⬆️ Pushed 1 commit to WiseNat/profile-readme
 ```
 
----
-
 <!--Visitor Badge--->
 
 ![](https://komarev.com/ghpvc/?username=WiseNat&style=flat-square&color=27A26F)
