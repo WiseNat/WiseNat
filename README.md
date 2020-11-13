@@ -28,6 +28,7 @@
 
 ```markdown
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
+⬆️ Pushed 1 commit to WiseNat/WiseNat
 ❗️ Opened issue #21 in BrunnerLivio/brunnerlivio
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
@@ -36,8 +37,9 @@
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
-⬆️ Pushed 1 commit to WiseNat/profile-readme
 ```
+
+---
 
 <!--Visitor Badge--->
 
