@@ -30,4 +30,11 @@
 <!--GITHUB_ACTIVITY:{"rows": 10, "raw": true}-->
 ```
 
+---
+
+<!--Visitor Badge--->
+
+![](https://komarev.com/ghpvc/?username=WiseNat&style=flat-square&color=27A26F)
+
+
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
