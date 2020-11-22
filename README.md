@@ -29,6 +29,7 @@
 ```markdown
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
+⬆️ Pushed 1 commit to WiseNat/WiseNat
 ❗️ Opened issue #21 in BrunnerLivio/brunnerlivio
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
@@ -36,7 +37,13 @@
 ❗️ Opened issue #7654 in timburgan/timburgan
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
-⬆️ Pushed 1 commit to WiseNat/WiseNat
 ```
+
+---
+
+<!--Visitor Badge--->
+
+![](https://komarev.com/ghpvc/?username=WiseNat&style=flat-square&color=27A26F)
+
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
