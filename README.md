@@ -29,6 +29,8 @@
 <!--GitHub Recent Activity--->
 
 ```markdown
+⬆️ Pushed 2 commits to WiseNat/WiseNat
+⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 3 commits to WiseNat/WiseNat
 ⬆️ Pushed 0 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
@@ -36,8 +38,6 @@
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
-⬆️ Pushed 1 commit to WiseNat/WiseNat
-❗️ Opened issue #21 in BrunnerLivio/brunnerlivio
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ```
 
