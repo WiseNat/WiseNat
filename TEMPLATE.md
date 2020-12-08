@@ -11,6 +11,8 @@
 	&emsp;
 	<code><a href="mailto:nathan88wise@gmail.com"><img alt="Gmail" width=32 src="res/gmail.svg"> Gmail</a></code>
 	&emsp;
+	<code><a href="https://twitter.com/WiseNatDev" title="Twitter Profile"><img alt="Twitter" width=32 src="res/twitter.svg"> Twitter</a></code>
+	&emsp;
 	<code><a href="https://www.linkedin.com/in/nathan-w-5592ba1b5/" title="LinkedIn Profile"><img alt="LinkedIn" width=32 src="res/linkedin.svg"> LinkedIn</a></code>
 	&emsp;
 </h5>
