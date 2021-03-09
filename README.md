@@ -35,10 +35,6 @@
 🗣 Commented on #1106 in Creators-of-Create/Create
 ⬆️ Pushed 1 commit to WiseNat/CrewLink-server
 🍴 Forked WiseNat/CrewLink-server from ottomated/CrewLink-server
-⬆️ Pushed 2 commits to WiseNat/WiseNat
-⬆️ Pushed 1 commit to WiseNat/WiseNat
-⬆️ Pushed 3 commits to WiseNat/WiseNat
-⬆️ Pushed 0 commit to WiseNat/WiseNat
 ```
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
