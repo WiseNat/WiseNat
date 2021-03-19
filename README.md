@@ -29,6 +29,7 @@
 <!--GitHub Recent Activity--->
 
 ```markdown
+❗️ Opened issue #81 in mathiasbynens/he
 ⬆️ Pushed 0 commit to WiseNat/PollBot
 ⬆️ Pushed 1 commit to WiseNat/PollBot
 ⬆️ Pushed 1 commit to WiseNat/PollBot
