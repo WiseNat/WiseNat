@@ -30,6 +30,7 @@
 
 ```markdown
 ⬆️ Pushed 1 commit to WiseNat/Maths-Books
+⬆️ Pushed 1 commit to WiseNat/Maths-Books
 ❗️ Closed issue #81 in mathiasbynens/he
 🗣 Commented on #52 in lucidrains/big-sleep
 📖 Opened PR #52 in lucidrains/big-sleep
@@ -38,7 +39,6 @@
 🍴 Forked WiseNat/big-sleep from lucidrains/big-sleep
 🗣 Commented on #49 in lucidrains/big-sleep
 🗣 Commented on #49 in lucidrains/big-sleep
-❗️ Opened issue #81 in mathiasbynens/he
 ```
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
