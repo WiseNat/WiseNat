@@ -29,6 +29,7 @@
 <!--GitHub Recent Activity--->
 
 ```markdown
+❗️ Opened issue #3048 in EDDiscovery/EDDiscovery
 ⬆️ Pushed 1 commit to WiseNat/Maths-Books
 ⬆️ Pushed 1 commit to WiseNat/Maths-Books
 ❗️ Closed issue #81 in mathiasbynens/he
@@ -37,7 +38,6 @@
 ⬆️ Pushed 1 commit to WiseNat/big-sleep
 ⬆️ Pushed 1 commit to WiseNat/big-sleep
 🍴 Forked WiseNat/big-sleep from lucidrains/big-sleep
-🗣 Commented on #49 in lucidrains/big-sleep
 🗣 Commented on #49 in lucidrains/big-sleep
 ```
 
