@@ -29,6 +29,8 @@
 <!--GitHub Recent Activity--->
 
 ```markdown
+⬆️ Pushed 8 commits to WiseNat/TerminalSite
+⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
@@ -37,8 +39,6 @@
 ⬆️ Pushed 1 commit to WiseNat/Maths-Books
 ❗️ Closed issue #81 in mathiasbynens/he
 🗣 Commented on #52 in lucidrains/big-sleep
-📖 Opened PR #52 in lucidrains/big-sleep
-⬆️ Pushed 1 commit to WiseNat/big-sleep
 ```
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
