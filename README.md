@@ -30,6 +30,7 @@
 
 ```markdown
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
+⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 2 commits to WiseNat/TerminalSite
 ⬆️ Pushed 8 commits to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
@@ -37,7 +38,6 @@
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ❗️ Opened issue #3048 in EDDiscovery/EDDiscovery
-⬆️ Pushed 1 commit to WiseNat/Maths-Books
 ⬆️ Pushed 1 commit to WiseNat/Maths-Books
 ```
 
