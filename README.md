@@ -29,13 +29,13 @@
 <!--GitHub Recent Activity--->
 
 ```markdown
+⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 5 commits to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 8 commits to WiseNat/TerminalSite
-⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
