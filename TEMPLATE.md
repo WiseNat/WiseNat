@@ -2,10 +2,14 @@
 
 
 <!--Tools/Languages--->
+<h1> Hello! </h1>
+<p>I'm Nathan Wise, someone who loves programming and technology as a whole. I usually end up making random things that try to push myself into different areas. Be it AI, Discord bots (I've made a fair few of those), hardware, networking or more recently web technologies.
 
+If you want more info about me then I'd recommend checking out my website: http://nathanwise.tech/</p>
+
+---
 
 <!--Contacts--->
-<h1> General </h1>
 <h5 align="center">
 	<code><a href="mailto:nathan88wise@gmail.com"><img alt="Gmail" width=32 src="res/gmail.svg"> Gmail</a></code>
 	&emsp;
