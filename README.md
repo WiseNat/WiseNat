@@ -33,6 +33,8 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 ```markdown
+⬆️ Pushed 2 commits to WiseNat/TerminalSite
+⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/WiseNat
 ⬆️ Pushed 2 commits to WiseNat/TerminalSite
 ⬆️ Pushed 8 commits to WiseNat/TerminalSite
@@ -41,8 +43,6 @@ If you want more info about me then I'd recommend checking out my website: http:
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
-⬆️ Pushed 1 commit to WiseNat/TerminalSite
-⬆️ Pushed 6 commits to WiseNat/TerminalSite
 ```
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
