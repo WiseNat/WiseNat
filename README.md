@@ -33,6 +33,8 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 ```markdown
+⬆️ Pushed 2 commits to WiseNat/TerminalSite
+⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 3 commits to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 5 commits to WiseNat/TerminalSite
@@ -40,8 +42,6 @@ If you want more info about me then I'd recommend checking out my website: http:
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ⬆️ Pushed 2 commits to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
-⬆️ Pushed 1 commit to WiseNat/TerminalSite
-⬆️ Pushed 2 commits to WiseNat/TerminalSite
 ⬆️ Pushed 1 commit to WiseNat/TerminalSite
 ```
 
