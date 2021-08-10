@@ -7,25 +7,24 @@ on:
     - cron: "*/30 * * * *"
 
 jobs:
-  publish:
+  build:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout sources
-        uses: actions/checkout@master
+      - uses: actions/checkout@v2
+      - uses: Readme-Workflows/recent-activity@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          persist-credentials: false
-          fetch-depth: 0
+          CONFIG_FILE: "./.github/update-readme.config.yml"
 
-      - name: Generate README.md
-        uses: WiseNat/profile-readme@patch-1
+      - uses: actions-js/profile-readme@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: WiseNat
           template: "TEMPLATE.md"
 
-      - name: Commit & Push changes
-        uses: actions-js/push@master
+      - uses: actions-js/push@v1.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          coauthor_email: WiseNat@users.noreply.github.com
-          coauthor_name: WiseNat
+          branch: 'master'
