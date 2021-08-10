@@ -33,11 +33,7 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [WiseNat/recent-activity](https://github.com/WiseNat/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![pullrequestmerged](res/prmerged.svg) Merged PR [#2](https://github.com/Readme-Workflows/activity-template/pull/2) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
-4. 👍 Approved [#2](https://github.com/Readme-Workflows/activity-template/pull/2#pullrequestreview-725777298) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
-5. ![pullrequestopened](res/propened.svg) Opened PR [#2](https://github.com/Readme-Workflows/activity-template/pull/2) in [Readme-Workflows/activity-template](https://github.com/Readme-Workflows/activity-template)
+
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
