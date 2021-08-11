@@ -33,10 +33,10 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [WiseNat/recent-activity](https://github.com/WiseNat/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 📔 Created new repository [WiseNat/CS-A-Level-Coursework](https://github.com/WiseNat/CS-A-Level-Coursework)
-3. ⭐ Starred [Platane/snk](https://github.com/Platane/snk)
-4. 
+1. ![issueOpened](res/issueopened.svg) Opened issue [#3](https://github.com/WiseNat/WiseNat/issues/3) in [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
+2. 🔱 Forked [WiseNat/recent-activity](https://github.com/WiseNat/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. 📔 Created new repository [WiseNat/CS-A-Level-Coursework](https://github.com/WiseNat/CS-A-Level-Coursework)
+4. ⭐ Starred [Platane/snk](https://github.com/Platane/snk)
 5. 
 <!--RECENT_ACTIVITY:end-->
 
