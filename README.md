@@ -11,13 +11,13 @@ If you want more info about me then I'd recommend checking out my website: http:
 
 <!--Contacts--->
 <h5 align="center">
-	<code><a href="mailto:nathan88wise@gmail.com"><img alt="Gmail" width=32 src="res/gmail.svg"> Gmail</a></code>
+	<code><a href="mailto:nathan88wise@gmail.com"><img alt="Gmail" width=32 src="res/logos/gmail.svg"> Gmail</a></code>
 	&emsp;
-	<code><a href="https://twitter.com/WiseNatDev" title="Twitter Profile"><img alt="Twitter" width=32 src="res/twitter.svg"> Twitter</a></code>
+	<code><a href="https://twitter.com/WiseNatDev" title="Twitter Profile"><img alt="Twitter" width=32 src="res/logos/twitter.svg"> Twitter</a></code>
 	&emsp;
-	<code><a href="https://www.linkedin.com/in/nathan-w-5592ba1b5/" title="LinkedIn Profile"><img alt="LinkedIn" width=32 src="res/linkedin.svg"> LinkedIn</a></code>
+	<code><a href="https://www.linkedin.com/in/nathan-w-5592ba1b5/" title="LinkedIn Profile"><img alt="LinkedIn" width=32 src="res/logos/linkedin.svg"> LinkedIn</a></code>
 	&emsp;
-	<code><a href="https://stackoverflow.com/users/11125378/wisenat" title="Stack Overflow Profile"><img alt="Stack Overflow" width=32 src="res/stackoverflow.svg"> Stack Overflow</a></code>
+	<code><a href="https://stackoverflow.com/users/11125378/wisenat" title="Stack Overflow Profile"><img alt="Stack Overflow" width=32 src="res/logos/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 
 <!--GitHub Stats--->
@@ -33,11 +33,5 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened](res/issueopened.svg) Opened issue [#3](https://github.com/WiseNat/WiseNat/issues/3) in [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
-2. 🔱 Forked [WiseNat/recent-activity](https://github.com/WiseNat/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 📔 Created new repository [WiseNat/CS-A-Level-Coursework](https://github.com/WiseNat/CS-A-Level-Coursework)
-4. ⭐ Starred [Platane/snk](https://github.com/Platane/snk)
-5. 
-<!--RECENT_ACTIVITY:end-->
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
