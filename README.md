@@ -33,11 +33,11 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issue-opened](res/octicons/issue-opened.svg) Opened issue [#844](https://github.com/CaffeineMC/sodium-fabric/issues/844) in [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric)
-2. ![star](res/octicons/star.svg) Starred [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
-3. ![issue-closed](res/octicons/issue-closed.svg) Closed issue [#3](https://github.com/WiseNat/WiseNat/issues/3) in [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
-4. ![issue-opened](res/octicons/issue-opened.svg) Opened issue [#3](https://github.com/WiseNat/WiseNat/issues/3) in [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
-5. ![repo-forked](res/octicons/repo-forked.svg) Forked [WiseNat/recent-activity](https://github.com/WiseNat/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![issue-closed](res/octicons/issue-closed.svg) Closed issue [#1](https://github.com/WiseNat/TerminalSite/issues/1) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+2. ![issue-opened](res/octicons/issue-opened.svg) Opened issue [#844](https://github.com/CaffeineMC/sodium-fabric/issues/844) in [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric)
+3. ![star](res/octicons/star.svg) Starred [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
+4. ![issue-closed](res/octicons/issue-closed.svg) Closed issue [#3](https://github.com/WiseNat/WiseNat/issues/3) in [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
+5. ![issue-opened](res/octicons/issue-opened.svg) Opened issue [#3](https://github.com/WiseNat/WiseNat/issues/3) in [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
 <!--RECENT_ACTIVITY:end-->
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
