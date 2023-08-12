@@ -7,8 +7,6 @@
 
 If you want more info about me then I'd recommend checking out my website: http://nathanwise.tech/</p>
 
----
-
 <!--Contacts--->
 <h5 align="center">
 	<code><a href="mailto:nathan88wise@gmail.com"><img alt="Gmail" width=32 src="res/logos/gmail.svg"> Gmail</a></code>
@@ -19,14 +17,6 @@ If you want more info about me then I'd recommend checking out my website: http:
 	&emsp;
 	<code><a href="https://stackoverflow.com/users/11125378/wisenat" title="Stack Overflow Profile"><img alt="Stack Overflow" width=32 src="res/logos/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
-
-<!--GitHub Stats--->
-&emsp;
-<p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=WiseNat&count_private=true&show_icons=true&title_color=009356&icon_color=75B79A&bg_color=F3F4F4&hide_border=true" />
-	</a>
-</p>
 
 ---
 
