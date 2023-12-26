@@ -23,9 +23,9 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![repo-forked](res/octicons/repo-forked.svg) Forked [WiseNat/deep-daze](https://github.com/WiseNat/deep-daze) from [lucidrains/deep-daze](https://github.com/lucidrains/deep-daze)
-2. ![star](res/octicons/star.svg) Starred [cnlohr/noeuclid](https://github.com/cnlohr/noeuclid)
-3. ![issue-closed](res/octicons/issue-closed.svg) Closed issue [#1](https://github.com/WiseNat/TerminalSite/issues/1) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+1. ![repo-forked](res/octicons/repo-forked.svg) Forked [WiseNat/PS3EyeDirectShow](https://github.com/WiseNat/PS3EyeDirectShow) from [AllanCat/PS3EyeDirectShow](https://github.com/AllanCat/PS3EyeDirectShow)
+2. ![star](res/octicons/star.svg) Starred [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling)
+3. ![star](res/octicons/star.svg) Starred [open-contracting/yapw](https://github.com/open-contracting/yapw)
 4. ![star](res/octicons/star.svg) Starred [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
 5. ![issue-closed](res/octicons/issue-closed.svg) Closed issue [#3](https://github.com/WiseNat/WiseNat/issues/3) in [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
 <!--RECENT_ACTIVITY:end-->
