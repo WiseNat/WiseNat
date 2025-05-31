@@ -3,7 +3,7 @@
 
 <!--Tools/Languages--->
 <h1> Hello! </h1>
-<p>I'm Nathan Wise, someone who loves programming and technology as a whole. I usually end up making random things that try to push myself into different areas. Be it AI, Discord bots (I've made a fair few of those), hardware, networking or more recently web technologies.
+<p>I'm Nathan Wise, someone who loves programming and technology as a whole. I usually end up making random things that try to push myself into different areas.
 
 If you want more info about me then I'd recommend checking out my website: http://nathanwise.tech/</p>
 
