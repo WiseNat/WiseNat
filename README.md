@@ -23,11 +23,11 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![star](res/octicons/star.svg) Starred [mosquito/aio-pika](https://github.com/mosquito/aio-pika)
-2. ![repo-forked](res/octicons/repo-forked.svg) Forked [WiseNat/PS3EyeDirectShow](https://github.com/WiseNat/PS3EyeDirectShow) from [AllanCat/PS3EyeDirectShow](https://github.com/AllanCat/PS3EyeDirectShow)
-3. ![star](res/octicons/star.svg) Starred [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling)
-4. ![star](res/octicons/star.svg) Starred [open-contracting/yapw](https://github.com/open-contracting/yapw)
-5. ![issue-closed](res/octicons/issue-closed.svg) Closed issue [#3](https://github.com/WiseNat/WiseNat/issues/3) in [WiseNat/WiseNat](https://github.com/WiseNat/WiseNat)
+1. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#3](https://github.com/WiseNat/TerminalSite/pull/3) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+2. ![pr-created](res/octicons/pr-created.svg) Opened PR [#3](https://github.com/WiseNat/TerminalSite/pull/3) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+3. ![star](res/octicons/star.svg) Starred [github/gitignore](https://github.com/github/gitignore)
+4. ![star](res/octicons/star.svg) Starred [torvalds/linux](https://github.com/torvalds/linux)
+5. ![star](res/octicons/star.svg) Starred [bowser-js/bowser](https://github.com/bowser-js/bowser)
 <!--RECENT_ACTIVITY:end-->
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
