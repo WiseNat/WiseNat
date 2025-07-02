@@ -23,10 +23,10 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr-created](res/octicons/pr-created.svg) Opened PR [#4](https://github.com/WiseNat/TerminalSite/pull/4) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-2. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#3](https://github.com/WiseNat/TerminalSite/pull/3) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-3. ![pr-created](res/octicons/pr-created.svg) Opened PR [#3](https://github.com/WiseNat/TerminalSite/pull/3) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-4. ![star](res/octicons/star.svg) Starred [torvalds/linux](https://github.com/torvalds/linux)
+1. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#4](https://github.com/WiseNat/TerminalSite/pull/4) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+2. ![pr-created](res/octicons/pr-created.svg) Opened PR [#4](https://github.com/WiseNat/TerminalSite/pull/4) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+3. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#3](https://github.com/WiseNat/TerminalSite/pull/3) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#3](https://github.com/WiseNat/TerminalSite/pull/3) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
 5. ![star](res/octicons/star.svg) Starred [bowser-js/bowser](https://github.com/bowser-js/bowser)
 <!--RECENT_ACTIVITY:end-->
 
