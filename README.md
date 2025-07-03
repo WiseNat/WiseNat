@@ -23,11 +23,11 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#4](https://github.com/WiseNat/TerminalSite/pull/4) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-2. ![pr-created](res/octicons/pr-created.svg) Opened PR [#4](https://github.com/WiseNat/TerminalSite/pull/4) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-3. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#3](https://github.com/WiseNat/TerminalSite/pull/3) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#3](https://github.com/WiseNat/TerminalSite/pull/3) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-5. ![star](res/octicons/star.svg) Starred [bowser-js/bowser](https://github.com/bowser-js/bowser)
+1. ![repo-forked](res/octicons/repo-forked.svg) Forked [WiseNat/getopts](https://github.com/WiseNat/getopts) from [jorgebucaran/getopts](https://github.com/jorgebucaran/getopts)
+2. ![star](res/octicons/star.svg) Starred [jorgebucaran/getopts](https://github.com/jorgebucaran/getopts)
+3. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#4](https://github.com/WiseNat/TerminalSite/pull/4) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#4](https://github.com/WiseNat/TerminalSite/pull/4) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+5. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#3](https://github.com/WiseNat/TerminalSite/pull/3) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
 <!--RECENT_ACTIVITY:end-->
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
