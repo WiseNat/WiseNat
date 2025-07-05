@@ -23,11 +23,11 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#8](https://github.com/WiseNat/TerminalSite/pull/8) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-2. ![pr-created](res/octicons/pr-created.svg) Opened PR [#8](https://github.com/WiseNat/TerminalSite/pull/8) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-3. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#7](https://github.com/WiseNat/TerminalSite/pull/7) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#7](https://github.com/WiseNat/TerminalSite/pull/7) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-5. ![pr-created](res/octicons/pr-created.svg) Opened PR [#59](https://github.com/jorgebucaran/getopts/pull/59) in [jorgebucaran/getopts](https://github.com/jorgebucaran/getopts)
+1. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#9](https://github.com/WiseNat/TerminalSite/pull/9) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+2. ![pr-created](res/octicons/pr-created.svg) Opened PR [#9](https://github.com/WiseNat/TerminalSite/pull/9) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+3. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#8](https://github.com/WiseNat/TerminalSite/pull/8) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#8](https://github.com/WiseNat/TerminalSite/pull/8) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+5. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#7](https://github.com/WiseNat/TerminalSite/pull/7) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
 <!--RECENT_ACTIVITY:end-->
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
