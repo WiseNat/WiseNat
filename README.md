@@ -23,11 +23,11 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#12](https://github.com/WiseNat/TerminalSite/pull/12) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-2. ![pr-created](res/octicons/pr-created.svg) Opened PR [#12](https://github.com/WiseNat/TerminalSite/pull/12) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-3. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#11](https://github.com/WiseNat/TerminalSite/pull/11) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#11](https://github.com/WiseNat/TerminalSite/pull/11) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-5. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#10](https://github.com/WiseNat/TerminalSite/pull/10) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+1. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#13](https://github.com/WiseNat/TerminalSite/pull/13) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+2. ![pr-created](res/octicons/pr-created.svg) Opened PR [#13](https://github.com/WiseNat/TerminalSite/pull/13) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+3. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#12](https://github.com/WiseNat/TerminalSite/pull/12) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#12](https://github.com/WiseNat/TerminalSite/pull/12) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+5. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#11](https://github.com/WiseNat/TerminalSite/pull/11) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
 <!--RECENT_ACTIVITY:end-->
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
