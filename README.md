@@ -23,11 +23,11 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#15](https://github.com/WiseNat/TerminalSite/pull/15) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-2. ![pr-created](res/octicons/pr-created.svg) Opened PR [#15](https://github.com/WiseNat/TerminalSite/pull/15) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-3. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#14](https://github.com/WiseNat/TerminalSite/pull/14) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#14](https://github.com/WiseNat/TerminalSite/pull/14) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-5. ![star](res/octicons/star.svg) Starred [SonarSource/SonarJS](https://github.com/SonarSource/SonarJS)
+1. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#16](https://github.com/WiseNat/TerminalSite/pull/16) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+2. ![pr-created](res/octicons/pr-created.svg) Opened PR [#16](https://github.com/WiseNat/TerminalSite/pull/16) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+3. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#15](https://github.com/WiseNat/TerminalSite/pull/15) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#15](https://github.com/WiseNat/TerminalSite/pull/15) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+5. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#14](https://github.com/WiseNat/TerminalSite/pull/14) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
 <!--RECENT_ACTIVITY:end-->
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
