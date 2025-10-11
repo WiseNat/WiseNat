@@ -23,11 +23,11 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![issue-opened](res/octicons/issue-opened.svg) Opened issue [#37805](https://github.com/microsoft/playwright/issues/37805) in [microsoft/playwright](https://github.com/microsoft/playwright)
-2. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#46](https://github.com/WiseNat/TerminalSite/pull/46) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-3. ![pr-created](res/octicons/pr-created.svg) Opened PR [#46](https://github.com/WiseNat/TerminalSite/pull/46) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-4. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#45](https://github.com/WiseNat/TerminalSite/pull/45) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-5. ![pr-created](res/octicons/pr-created.svg) Opened PR [#45](https://github.com/WiseNat/TerminalSite/pull/45) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+1. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#49](https://github.com/WiseNat/TerminalSite/pull/49) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+2. ![pr-created](res/octicons/pr-created.svg) Opened PR [#49](https://github.com/WiseNat/TerminalSite/pull/49) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+3. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#48](https://github.com/WiseNat/TerminalSite/pull/48) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#48](https://github.com/WiseNat/TerminalSite/pull/48) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+5. ![pr-merged](res/octicons/pr-merged.svg) Merged PR [#47](https://github.com/WiseNat/TerminalSite/pull/47) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
 <!--RECENT_ACTIVITY:end-->
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
