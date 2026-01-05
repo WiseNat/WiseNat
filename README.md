@@ -23,10 +23,10 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr-created](res/octicons/pr-created.svg) Opened PR [#50](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-2. ![pr-created](res/octicons/pr-created.svg) Opened PR [#48](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-3. ![pr-created](res/octicons/pr-created.svg) Opened PR [#47](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-4. ![issue-opened](res/octicons/issue-opened.svg) Opened issue [#37805](https://github.com/microsoft/playwright/issues/37805) in [microsoft/playwright](https://github.com/microsoft/playwright)
+1. ![pr-created](res/octicons/pr-created.svg) Opened PR [#52](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+2. ![pr-closed](res/octicons/pr-closed.svg) Closed PR [#51](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+3. ![pr-created](res/octicons/pr-created.svg) Opened PR [#51](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#50](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
 5. ![pr-created](res/octicons/pr-created.svg) Opened PR [#46](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
 <!--RECENT_ACTIVITY:end-->
 
