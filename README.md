@@ -23,11 +23,11 @@ If you want more info about me then I'd recommend checking out my website: http:
 <!--GitHub Recent Activity--->
 
 <!--RECENT_ACTIVITY:start-->
-1. ![pr-created](res/octicons/pr-created.svg) Opened PR [#52](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-2. ![pr-closed](res/octicons/pr-closed.svg) Closed PR [#51](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-3. ![pr-created](res/octicons/pr-created.svg) Opened PR [#51](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#50](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
-5. ![pr-created](res/octicons/pr-created.svg) Opened PR [#46](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+1. ![pr-created](res/octicons/pr-created.svg) Opened PR [#53](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+2. ![pr-created](res/octicons/pr-created.svg) Opened PR [#52](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+3. ![pr-closed](res/octicons/pr-closed.svg) Closed PR [#51](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+4. ![pr-created](res/octicons/pr-created.svg) Opened PR [#51](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
+5. ![pr-created](res/octicons/pr-created.svg) Opened PR [#50](undefined) in [WiseNat/TerminalSite](https://github.com/WiseNat/TerminalSite)
 <!--RECENT_ACTIVITY:end-->
 
 <!--**WiseNat/WiseNat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
